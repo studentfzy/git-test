@@ -15,5 +15,6 @@ public class GitTest {
         System.out.println("你好4");
         System.out.println("mater test");
         System.out.println("hot-fix test");
+        System.out.println("push test");
     }
 }
