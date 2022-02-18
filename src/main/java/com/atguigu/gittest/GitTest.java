@@ -8,5 +8,7 @@ package com.atguigu.gittest;
  * @date 2022/2/18 16:23
  */
 public class GitTest {
-
+    public static void main(String[] args) {
+        System.out.println("你好");
+    }
 }
